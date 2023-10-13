@@ -1,0 +1,19 @@
+.table {
+    border-color: lightgray;
+    text-align: center;
+    width: 100%;
+}
+
+.first-row {
+    width: 20px;
+    overflow: hidden;
+    word-break: break-all;
+}
+
+.h1 {
+    font-weight: 400;
+}
+
+.h3 {
+    font-weight: 400;
+}
